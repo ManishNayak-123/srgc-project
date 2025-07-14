@@ -1,0 +1,232 @@
+
+body{
+    margin:0px;
+    padding:0px;
+    position: relative;
+
+}
+ul{
+    background-color:red;
+    list-style-type: none;
+    color:white;
+    height: 120px;;
+  
+
+    
+}
+ul li{
+    display: inline-block;
+    padding-right: 70px;
+
+
+    color:black;
+}
+
+/* #photo{
+    height:150px;
+    width:150px;
+    margin-right:-10px;
+
+} */
+#box{
+    color:red;
+    background-color: rgb(255, 255, 255);
+    border:5px solid black;
+    font-size: 70px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    border-radius:50%;
+    font-weight:1000px;
+    text-decoration: none;
+  
+ }
+
+ #div{
+    margin-top:20px;
+    margin-right:40px;
+ }
+.menu{
+    font-size:20px;
+}
+.blockes{
+    width:auto;
+    height: auto;
+}
+#shri{
+    background-color: rgba(240, 248, 255, 0.68);
+    text-align: center;
+    color:gold;
+    font-size: 25px;
+    font-weight: bold;
+}
+#nacc{
+  margin-left:600px;
+  margin-top:30px;
+ 
+}
+#http{
+    height: 700px;
+    background-color: rgba(15, 2, 2, 0.767);
+    background-size: cover;
+    border: 2px solid white;
+    background-image:url(https://i.ytimg.com/vi/hXXj3YISCls/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDZEBX_5RFre_Qp_CDNFplnulnXhA);
+   
+}
+.two-images{
+    display:flex;
+}
+#about{
+    color:gold;
+    text-align: center;
+    font-size:25px;
+    background-color: aliceblue;
+    height: 100px;
+}
+#ram{
+ background-color: blue;
+ height: 300px ;
+ border:2px solid black;  
+ width: 500px;
+ margin-left: 20px;
+}
+#block{
+    background-color: aqua;
+    height: 300px;
+    width: 500px;
+    border: 2px solid black;
+   
+
+    
+}
+#im3{
+    background-color: aqua;
+    height: 300px;
+    border: 2px solid black;
+    width: 500px;
+    margin-left: 20px;
+    
+
+}
+#colleges{
+  height: 300px;
+  width: 500px;
+}
+#mzn{
+    height: 300px;
+    width: 500px;
+}
+#jpg{
+    height: 300px;
+    width: 500px;
+}
+.second-column{
+    display:flex;
+}
+#ist-image{
+    background-color: aqua;
+    height: 300px;
+    border: 2px solid black;
+    width: 500px;
+    margin-top:20px;
+    
+    
+}
+#second-image{
+    background-color: aqua;
+    height: 300px;
+    border: 2px solid black;
+    width: 500px;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+}
+#third-image{
+    background-color: aqua;
+    height: 300px;
+    border: 2px solid black;
+    width: 500px;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+}
+#img1{
+    height: 300px;
+    width: 500px;
+}
+#img2{
+    height: 300px;
+    width: 500px;
+}
+#img3{
+    height: 300px;
+    width: 500px;
+}
+.third-column{
+    display:flex;
+}
+#background{
+    background-color:rgb(39, 48, 61);
+    height: 600px;
+    display:flex;
+}
+#srgc-image-logo{
+    margin-left:600px;
+
+}
+.acq-information{
+    height:460px;
+    width:410px;
+    background-color:white;
+    border:2px solid black;
+    margin-left: 60px;
+    margin-top:65px;
+    border-radius:30px;
+}
+#text{
+    text-decoration:solid;
+    text-align: justify;
+    font-size:18px;
+    padding:5px;
+}
+#social-meadia-image{
+    height:70px;
+    width:300px;
+}
+#About-center{
+    text-align: center;
+}
+#Quick-links{
+    background-color: white;
+    color:black;
+    margin-left: 20px;
+    font-size:18px;
+    padding: 8px;
+    list-style-type:none;
+}
+#revisiting-tag{
+    text-decoration: none;
+    
+}
+#revisiting{
+    text-decoration: none;
+    color:black;
+    text-transform: initial;
+    
+}
+#color{
+    background-color:yellow;
+    height: 10px;
+}
+#copyright{
+    height: 100px;
+    background-color:rgb(19, 19, 57);
+    color:rgb(174, 199, 11);
+    font-size:20px;
+    font-weight: bold;
+    text-align: center;
+    margin-top:20px;
+  
+}
+#rights{
+    margin-top:-20px;
+}
